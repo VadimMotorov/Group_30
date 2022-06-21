@@ -1,15 +1,13 @@
 ID
+Summary
 Severity
 Priority
-[A[A[A[C[C
-[Cummary
-[A[C[C[C[C[C[C[C[3~[3~[3~Severity
-Priority
 Steps to reproduse
-Ectual result
+Expected result
 Actual result
 Attachements
+Build
 Environment
-Assigned to
-[A[A[A[A[A[C[C[C[Cxpected [23~re[23~sult[B[B[B[B
+Status
 Author
+
